@@ -1,1 +1,1 @@
-# llm-zoomcapm
+# llm-zoomcamp
